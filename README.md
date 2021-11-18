@@ -20,28 +20,28 @@
 - 🎮 I like play video games
 <br>
 
-<details align="center"><summary><b>More info</b></summary>
+<details align="center"><summary>More info</summary>
 
 <h3 align="left"><b># Languages and Tools:</b></h3>
-<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img alt="Node.js" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /></code>
-<code><img alt="JavaScript" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></code>
-<code><img alt="python" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
-<code><img alt="Terminal" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" /></code>
-<code><img alt="C++" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /></code>
-<code><img alt="React" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /></code>
-<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></code>
-<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></code>
-<code><img alt="Sqlite" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" /></code>
-<code><img alt="Sqlite" height="35rem" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" /></code>
+<code><img alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Node.js" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /></code>
+<code><img alt="JavaScript" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></code>
+<code><img alt="python" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
+<code><img alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" /></code>
+<code><img alt="C++" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /></code>
+<code><img alt="React" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /></code>
+<code><img alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></code>
+<code><img alt="Sqlite" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" /></code>
+<code><img alt="Sqlite" height="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" /></code>
 
 <br/>
 <h3 align="left"><b># Social:</b></h3>
-<a href="https://www.https://www.facebook.com/riccardo.zanotelli"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/riccardo.zanotelli"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/riccardo_zanotelli/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:riccardo.zanotelli@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://t.me/Riccardo_Zanotelli"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://discordapp.com/users/#7569/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discordapp.com/users/Zano_TN#7569"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ZanoTN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
