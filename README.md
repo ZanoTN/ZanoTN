@@ -49,11 +49,12 @@
 <a href="https://t.me/Riccardo_Zanotelli"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://discordapp.com/users/Zano_TN#7569"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ZanoTN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="http://zanotn.infinityfreeapp.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 
 <br/>
   
 <h3 align="left"><b># GitHub Stats:</b></h3>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZanoTN&count_private=true&hide=contribs,prs&show_icons=true" alt="ZanoTN's Github Stats" width="70%">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanoTN&layout=compact" alt="ZanoTN's Github Stats" width="70%">
 </details>
