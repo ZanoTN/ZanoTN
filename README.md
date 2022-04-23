@@ -4,10 +4,10 @@ Hi 👋 My name is Riccardo Zanotelli
 Devoloper
 ---------
 
-*   🌍  I'm based in Trento (Italy)
-*   ✉️  You can contact me at [riccardo.zanotelli@gmail.com](mailto:riccardo.zanotelli@gmail.com)
-*   🧠  I'm learning React Native
-*   ⚡  I'm a volunteer firefighter
+*   🌍  I'm based in Trento (Italy)
+*   ✉️  You can contact me at [riccardo.zanotelli@gmail.com](mailto:riccardo.zanotelli@gmail.com)
+*   🧠  I'm learning React Native
+*   🚒  I'm a volunteer firefighter
 
 ### Skills
 
