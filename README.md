@@ -24,20 +24,21 @@ Devoloper
 ### Socials 
                   
 <p align="left">
-<a href="https://discord.com/users/Zano_TN#7569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/riccardo.zanotelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/ZanoTN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/riccardo_zanotelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/riccardo-zanotelli-9bb0291a1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/17091651/zano-tn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-<a href="https://www.twitch.tv/zano_tn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/Zano_TN#7569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a> 
+<a href="https://www.facebook.com/riccardo.zanotelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a> 
+<a href="https://www.github.com/ZanoTN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" /></a> 
+<a href="http://www.instagram.com/riccardo_zanotelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a> 
+<a href="https://www.linkedin.com/in/riccardo-zanotelli-9bb0291a1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a> 
+<a href="https://www.stackoverflow.com/users/17091651/zano-tn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="36" height="36" /></a> 
+<a href="https://www.twitch.tv/zano_tn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" /></a>
 </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ZanoTN"><img src="https://github-readme-stats.vercel.app/api?username=ZanoTN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZanoTN's GitHub stats" /></a>
+<a href="http://www.github.com/ZanoTN"><img src="https://github-readme-stats.vercel.app/api?username=ZanoTN&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="ZanoTN's GitHub stats" /></a>
+<a href="http://www.github.com/ZanoTN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZanoTN&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
