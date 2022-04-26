@@ -1,4 +1,4 @@
-Hi 👋 My name is Riccardo Zanotelli
+Hi 👋 My name is Riccardo
 ===================================
 
 Devoloper
