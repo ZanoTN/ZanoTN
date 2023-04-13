@@ -5,9 +5,9 @@ Full Stack Developer / University Students
 ------------------------------------------
 
 * 🌍  I'm based in Trento, Italy
-* 🖥️  See my portfolio at [zanotn.eu](http://www.zanotn.eu)
+* 🖥️  See my portfolio at [zanotn.eu](https://www.zanotn.eu)
 * ✉️  You can contact me at [riccardo.zanotelli@gmail.com](mailto:riccardo.zanotelli@gmail.com)
-* 🚀  I'm currently working on [selpi.info](http://www.selpi.info)
+* 🚀  I'm currently working on [selpi.info](https://www.selpi.info)
 * 🧠  I'm learning NextJS, Java
 * ⚡  Volunteer firefighter
 
