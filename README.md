@@ -9,7 +9,7 @@ Full Stack Developer / University Students
 * ✉️  You can contact me at [riccardo.zanotelli@gmail.com](mailto:riccardo.zanotelli@gmail.com)
 * 🚀  I'm currently working on [selpi.info](https://www.selpi.info)
 * 🧠  I'm learning NextJS, Java
-* ⚡  Volunteer firefighter
+* 🚒  Volunteer firefighter
 
 ### Skills
 
