@@ -2,7 +2,7 @@
 
 📍 **Location:** Trento, Italy
 
-💻 **Portfolio:** [me.zanotn.space](https://me.zanotn.space)
+💻 **Portfolio:** [zanotn.space](https://zanotn.space)
 
 🚒 **Volunteer Firefighter**
 
