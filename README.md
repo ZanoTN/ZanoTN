@@ -4,21 +4,9 @@
 
 💻 **Portfolio:** [zanotn.space](https://zanotn.space)
 
-🚒 **Volunteer Firefighter**
-
 ## Skills 🛠️
 
-- Git
-- JavaScript
-- TypeScript
-- C
-- Python
-- Docker
-
-## Projects 🚀
-
-### EventsPi: [Repository](https://github.com/ZanoTN/EventsPi)
-- Google calendar event reminder on Telegram.
+Git, JavaScript, TypeScript, C, Python, Docker, Rails
 
 ## Connect with Me 🌐
 
